@@ -55,7 +55,7 @@
 			
 		</section>
 		<section id="info">
-			<a href="https://github.com">Станица на Github</a>
+			<a href="https://github.com/Eg0r00f/Eg0r00f">Станица на Github</a>
 		</section>
 	</div>
 	<div id="referat" class="tabcontent">
