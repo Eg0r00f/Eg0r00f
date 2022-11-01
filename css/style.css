@@ -1,0 +1,58 @@
+@import "fonts.css";
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body{
+	font-family: 'Roboto';
+}
+#nav{
+	border: 1px Solid #f8f7f2;
+	border-radius: 6px;
+	padding: 16px;
+	min-width: 35%;
+	max-width: 90%;
+	margin-left: 1%;
+	background-color: #f8f7f2;
+}
+h1{
+	font-size: 45px;
+}
+.dowload{
+	margin: 2px;
+	color: white;
+	background-color: DodgerBlue;
+	border: 1px Solid DodgerBlue;
+	border-radius: 4px;
+	padding: 12px 30px;
+	font-size: 16px;
+	font-size: 20px;
+	text-decoration: none;
+}
+.dowload:hover{background-color: RoyalBlue;}
+code{
+	display: block;
+	white-space: pre;
+	overflow: auto;
+	background-color: #f8f7f2;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+img{
+	margin: 10px;
+	
+}
+section{
+	margin: 5px;
+	padding: 14px;
+}
+#info{
+	
+	background-color: #808080;
+	color: white;
+	margin-left: -28px;
+	margin-right: -28px;
+	margin-bottom: -28px
+}
+#info a{
+	color: white;
+	text-decoration: none;
+}

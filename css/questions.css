@@ -1,0 +1,19 @@
+@import "modal.css";
+
+#test{
+	font-size: 24px;
+	display: none;
+}
+#test p{
+	font-size: 140%;
+}
+.tabv{
+	border: 1px Solid black;
+	border-radius: 24px;
+	
+	margin-right: 5%;
+}
+.VTab{
+	
+	width: 80%;
+}
